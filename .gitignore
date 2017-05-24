@@ -1,1 +1,4 @@
 .vagrant/
+
+terraform-guide/terraform.tfstate
+terraform-guide/terraform.tfstate.backup
