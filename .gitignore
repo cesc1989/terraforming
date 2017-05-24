@@ -2,3 +2,6 @@
 
 terraform-guide/terraform.tfstate
 terraform-guide/terraform.tfstate.backup
+
+gruntwork-guide/terraform.tfstate
+gruntwork-guide/terraform.tfstate.backup
