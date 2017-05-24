@@ -1,4 +1,8 @@
 .vagrant/
 
-terraform.tfstate*
-terraform.tfstate.backup*
+terraform.tfstate
+terraform.tfstate.backup
+
+.DS_Store
+
+terraform-guide/terraform.*
